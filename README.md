@@ -19,7 +19,9 @@ Test(s) added in the framework are
 Steps to setup and run project framework Note. This framework runs test(s) in parallel
 
 Download and install Java
+
 Download and install Apache Maven
+
 Download Initsng project from
 Unzip Initsng project
 Open project with any IDE of your choice. preferably IntelliJ or Eclipse IDE
